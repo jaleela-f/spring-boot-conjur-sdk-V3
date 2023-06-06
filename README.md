@@ -48,7 +48,7 @@ The following are prerequisites to using the Spring Boot Plugin.
 ## Conjur setup
 
 Conjur (OSS or Enterprise) and the Conjur CLI are installed in the environment and running in the background.
-If you haven't yet done so, follow the instructions for installing [OSS](https://www.conjur.org/get-started/quick-start/oss-environment/) or [Enterprise]([https://www.conjur.org/get-started/quick-start/oss-environment/](https://docs.cyberark.com/Product-Doc/OnlineHelp/AAM-DAP/Latest/en/Content/HomeTilesLPs/LP-Tile2.htm?tocpath=Setup%7C_____0)).
+If you haven't yet done so, follow the instructions for installing [OSS](https://www.conjur.org/get-started/quick-start/oss-environment/) or [Enterprise](https://docs.cyberark.com/Product-Doc/OnlineHelp/AAM-DAP/Latest/en/Content/HomeTilesLPs/LP-Tile2.htm?tocpath=Setup%7C_____0).
 
 Once Conjur and the Conjur CLI are running in the background, you can start setting up your Spring Boot application to work with our Conjur Spring Boot Plugin.
 
